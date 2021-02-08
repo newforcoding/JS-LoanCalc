@@ -1,0 +1,56 @@
+body{
+    margin: 1;
+    padding: 1;
+}
+#loadcal{
+    background-color:darkolivegreen;
+    border-radius: 10px;
+    display: grid;
+}
+h1{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+    color: khaki;
+    text-align:center;
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    margin:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    padding:1vw;
+    color:yellowgreen;
+
+}
+#amount{
+    border: 2px light black;
+    border-radius: 2px;
+    box-shadow: chartreuse;
+    width: 20%;
+    height: 30px;
+}
+#interst_rate{
+    border: 2px light black;
+    border-radius: 2px;
+    box-shadow: chartreuse;
+    width: 20%;
+    height: 30px;
+}
+#months{
+    border: 2px light black;
+    border-radius: 2px;
+    box-shadow: chartreuse;
+    width: 20%;
+    height: 30px;
+}
+#payment{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:italic;
+    margin: 10px;
+    padding: 10px;
+    color:yellowgreen;
+}
